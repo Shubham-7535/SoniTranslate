@@ -1,4 +1,4 @@
-# 🎥 SoniTranslate 🈷️
+# 🎥 its preffered to use SoniTranlate(1) to avoid any issue 🈷️
 
 🎬 Video Translation with Synchronized Audio 🌐
 
